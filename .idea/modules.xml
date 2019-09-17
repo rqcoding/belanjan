@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/belanjan_git.iml" filepath="$PROJECT_DIR$/.idea/belanjan_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/blanjan.iml" filepath="$PROJECT_DIR$/blanjan.iml" />
     </modules>
   </component>
