@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520187478410",
+    "firebase_url": "https://belanjan-1538377367818.firebaseio.com",
+    "project_id": "belanjan-1538377367818",
+    "storage_bucket": "belanjan-1538377367818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520187478410:android:c10e635a355f312c",
+        "android_client_info": {
+          "package_name": "com.belanjan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520187478410-jk6o5oabod6erf67g3ar32ktbv09i9ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbplj53QlRdFQJuzPtDktmCf28VyuRKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
